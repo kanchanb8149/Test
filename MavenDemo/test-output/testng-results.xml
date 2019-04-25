@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Main Test Suite" duration-ms="54613" started-at="2019-04-10T06:35:54Z" finished-at="2019-04-10T06:36:49Z">
+    <groups>
+    </groups>
+    <test name="Tyre_Market" duration-ms="54613" started-at="2019-04-10T06:35:54Z" finished-at="2019-04-10T06:36:49Z">
+      <class name="demo.GetList">
+        <test-method status="PASS" signature="getListItem()[pri:0, instance:demo.GetList@3abbfa04]" name="getListItem" duration-ms="53581" started-at="2019-04-10T12:05:54Z" finished-at="2019-04-10T12:06:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListItem -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:demo.GetList@3abbfa04]" name="closeBrowser" is-config="true" duration-ms="1000" started-at="2019-04-10T12:06:48Z" finished-at="2019-04-10T12:06:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- demo.GetList -->
+    </test> <!-- Tyre_Market -->
+  </suite> <!-- Main Test Suite -->
+</testng-results>
