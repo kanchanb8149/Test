@@ -1,8 +1,8 @@
 package demo;
 
-public class Demo {@Override
-public String toString() {
-	// TODO Auto-generated method stub
-	return super.toString();
+public class Demo {
+public static void main(String[] args) 
+{
+	System.out.println("hiii");
 }
 }
